@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Clocks/static/css/main.9f1c5100.css",
+    "main.css": "/Clocks/static/css/main.e23168b0.css",
     "main.js": "/Clocks/static/js/main.0dc8dfd0.js",
     "static/media/Inter-VariableFont_slnt,wght.ttf": "/Clocks/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Clocks/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -9,11 +9,11 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Clocks/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Clocks/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Clocks/index.html",
-    "main.9f1c5100.css.map": "/Clocks/static/css/main.9f1c5100.css.map",
+    "main.e23168b0.css.map": "/Clocks/static/css/main.e23168b0.css.map",
     "main.0dc8dfd0.js.map": "/Clocks/static/js/main.0dc8dfd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f1c5100.css",
+    "static/css/main.e23168b0.css",
     "static/js/main.0dc8dfd0.js"
   ]
 }
