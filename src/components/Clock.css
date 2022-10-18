@@ -1,0 +1,63 @@
+/*  ============= WEB BROWSER RESETS ============ */
+
+body { 
+    font-family: 'Inter-VariableFont_slnt,wght';
+}  
+
+@font-face {
+    font-family: 'Inter-VariableFont_slnt,wght' ;
+    font-size: 10rem;
+    src: url('../fonts/Inter/Inter-VariableFont_slnt,wght.ttf');
+}  
+/* ========== MAIN CONTAINERS ========= */
+
+/* Desktops */
+@media all and (min-width:992px) { 
+    .container-block { 
+        flex-direction: row;} 
+    }
+
+/* Tablet */
+@media only screen and (max-width:991px) { 
+    .container-block { 
+        flex-direction: row;} 
+    }
+
+/* Mobiles - Landscape */
+@media only screen and (max-width: 767px) and (orientation: landscape) { 
+    .container-block { 
+        flex-direction: row;}
+    }
+
+/* Mobiles - portrait */
+@media only screen and (max-width:478px) and (orientation: portrait)  { 
+    .container-block { 
+        margin-top: 1rem; 
+        flex-direction: column;
+        }
+    }
+
+/* Flexbox parent container */
+.container-block{
+    display: flex;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);    
+}
+
+/* Clock icon */
+.clock-icon{
+    margin-left: 0.313rem;
+    margin-right: 0.938rem;
+}
+
+/* Inside item */
+.item p { 
+    font-size: 1.5rem;
+    line-height: 1.2;
+    margin-top: 0.313rem; 
+    margin-bottom: 1.25rem;
+    margin-right: 2.5rem;
+}
