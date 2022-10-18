@@ -7,7 +7,7 @@ body {
 @font-face {
     font-family: 'Inter-VariableFont_slnt,wght' ;
     font-size: 10rem;
-    src: url('../fonts/Inter/Inter-VariableFont_slnt,wght.ttf');
+    src: url('./fonts/Inter/Inter-VariableFont_slnt,wght.ttf');
 }  
 /* ========== MAIN CONTAINERS ========= */
 

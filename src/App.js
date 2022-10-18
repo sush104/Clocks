@@ -1,6 +1,6 @@
 import React from "react";
 import Clock from './components/Clock.js'
-import "./components/Clock.css"
+import "./styles.css"
 
 const App = () => {
 
