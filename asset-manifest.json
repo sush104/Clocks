@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/clocks/static/css/main.15a7c417.css",
-    "main.js": "/clocks/static/js/main.0bd98998.js",
-    "static/media/Inter-VariableFont_slnt,wght.ttf": "/clocks/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/clocks/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/clocks/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/clocks/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/clocks/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/clocks/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/clocks/index.html",
-    "main.15a7c417.css.map": "/clocks/static/css/main.15a7c417.css.map",
-    "main.0bd98998.js.map": "/clocks/static/js/main.0bd98998.js.map"
+    "main.css": "/Clocks/static/css/main.c372222f.css",
+    "main.js": "/Clocks/static/js/main.0bd98998.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/Clocks/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Clocks/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Clocks/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Clocks/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Clocks/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Clocks/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Clocks/index.html",
+    "main.c372222f.css.map": "/Clocks/static/css/main.c372222f.css.map",
+    "main.0bd98998.js.map": "/Clocks/static/js/main.0bd98998.js.map"
   },
   "entrypoints": [
-    "static/css/main.15a7c417.css",
+    "static/css/main.c372222f.css",
     "static/js/main.0bd98998.js"
   ]
 }
