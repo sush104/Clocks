@@ -15,6 +15,5 @@ const App = () => {
             <Clock tzone = {tokyo} title = {'Tokyo'} />
         </div>
         )
-
 }
 export default App;

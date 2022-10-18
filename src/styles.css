@@ -54,9 +54,10 @@ body {
 
 /* Inside item */
 .item p { 
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     line-height: 1.2;
     margin-top: 0.313rem; 
     margin-bottom: 1.25rem;
     margin-right: 2.5rem;
+    width: 12rem;
 }
