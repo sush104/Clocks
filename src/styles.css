@@ -6,7 +6,6 @@ body {
 
 @font-face {
     font-family: 'Inter-VariableFont_slnt,wght' ;
-    font-size: 10rem;
     src: url('./fonts/Inter/Inter-VariableFont_slnt,wght.ttf');
 }  
 /* ========== MAIN CONTAINERS ========= */
@@ -55,7 +54,7 @@ body {
 
 /* Inside item */
 .item p { 
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     line-height: 1.2;
     margin-top: 0.313rem; 
     margin-bottom: 1.25rem;

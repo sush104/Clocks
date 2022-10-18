@@ -25,7 +25,7 @@ const Clock = (props) => {
   
     return( 
         <React.Fragment>   
-            <div className="clock-icon">{timeClock < '22' && timeClock > '07' ? <BsClock size={40}/> : <BsClockFill size={40}/>}</div>
+            <div className="clock-icon">{timeClock < '22' && timeClock > '07' ? <BsClock size={35}/> : <BsClockFill size={35}/>}</div>
                 <div className="item">
                 <p><strong>{props.title}</strong> <br/>  
                 Address line 1 <br/>
