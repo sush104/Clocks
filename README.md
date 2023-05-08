@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This Project is deployed using github pages and you can find it on `https://sush104.github.io/Clocks/`
+
 ## Available Scripts
 
 Steps to run locally:
